@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <title>About - New Era</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="news.html">News</a></li>
+        </ul>
+      </nav>
+      <img src="logo.png" alt="New Era">
+    </header>
+    <main>
+      <h1>About New Era</h1>
+      <p>New Era is your one-stop destination for the latest news, reviews, and rumors about video games and esports. Our team of passionate gamers and journalists brings you the best coverage of the gaming world.</p>
+      <h2>Our Mission</h2>
+      <p>Our mission is to provide our readers with accurate and unbiased information about the world of gaming. We believe that every gamer deserves to be informed about the latest trends, releases, and events in the industry.</p>
+    </main>
+    <aside>
+      <h2>Latest News</h2>
+      <ul>
+        <li><a href="#">New game leaks</a></li>
+        <li><a href="#">Interview with a pro gamer</a></li>
+        <li><a href="#">The future of VR gaming</a></li>
+      </ul>
+    </aside>
+    <footer>
+      <p>&copy; 2023</p>
+    </footer>
+  </body>
+</html>
